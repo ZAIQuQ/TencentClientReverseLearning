@@ -2,7 +2,11 @@
 
 
 
-[TOC]
+## 目录
+* [1. apk分析](#1.apk分析)
+* [2. ptrace注入](#2.ptrace注入)
+* [3. inline hook替换proc_0x1134](#3.inlinehook替换proc_0x1134)
+
 
 使用的工具
 
@@ -51,7 +55,7 @@
 
 ​	查看原汇编指令，这是一个永远执行右边分支的函数，且右边分支一定返回0。左边分支调用`__android_log_print`，打印的内容是提示我们对该函数进行hook，使其永远返回true，记其为`proc_0x1134`，关于libcrackme.so基地址的地址偏移也为0x1134。<img src="WriteUp.assets/image-20231015190325746.png" alt="image-20231015190325746" style="zoom:50%;" />
 
-## 2.  ptrace注入
+## 2. ptrace注入
 
 ​	以下是听视频课程时关于ptrace注入的笔记，后面编写注入器injector会多次调用到。
 
