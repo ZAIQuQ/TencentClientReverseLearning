@@ -1,0 +1,7 @@
+﻿  ANDROID_HOME=C:\\Microsoft\AndroidSDK\25
+  ANDROID_SDK_ROOT=C:\\Microsoft\AndroidSDK\25
+  ANT_HOME=
+  JAVA_HOME=C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08
+  NDK_ROOT=C:\\Microsoft\AndroidNDK\android-ndk-r23c
+  Hook.cpp
+  Hook.vcxproj -> D:\Learning\2023project\TLearning\Hook\ARM\Debug\libHook.so
