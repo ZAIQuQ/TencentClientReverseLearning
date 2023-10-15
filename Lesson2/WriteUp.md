@@ -3,9 +3,9 @@
 
 
 ## 目录
-* [1. apk分析](#1. apk分析)
-* [2. ptrace注入](#2. ptrace注入)
-* [3. inline hook替换proc_0x1134](#3. inline hook替换proc_0x1134)
+*  apk分析
+*  ptrace注入
+*  inline hook替换proc_0x1134
 
 
 使用的工具
