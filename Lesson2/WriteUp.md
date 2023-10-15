@@ -15,6 +15,7 @@
 | jeb            | v4.20         |
 | adb            | v10.0.19045   |
 | VMOS Pro       | v2.9.8        |
+| MinGW64	 | v4.9.2	 |
 
 
 
@@ -230,6 +231,7 @@ void *mall0c(pid_t pid, size_t len)
 ```
 
 
+如何编译使用了ptrace库的injector.c？只需要用NDK内的`armv7a-linux-androideabi33-clang`，注意androideabi版本和android版本对应表在[Android API Levels](https://apilevels.com/)中，我最终实现注入的真机是Android13版本，故使用level 33。
 
 ​	进入实际操作环节，我尝试了LeiDian9 、MuMu12、MuMu6、VMOS Pro等多款不同操作系统上的安卓虚拟机，但是均出现一些无法解决的难题，困难之下只好借来能root的小米手机，用真实机进行测试。
 
