@@ -1,0 +1,43 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX450 (ID=0x1f98)
+    Vendor:   NVIDIA
+    VRAM:     1928 MB
+    Driver:   31.0.15.1747
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Learning\2023project\TLearning\题目3和题目4\平仔骏-U202112052-第三次作业\PC-FlappyBird\FlappyBird_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.034 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.844400 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.965100 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 0.581000 ms (FindLiveObjects: 0.081700 ms CreateObjectMapping: 0.027500 ms MarkObjects: 0.431700 ms  DeleteObjects: 0.039400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.179000 ms
+
+Unloading 140 unused Assets to reduce memory usage. Loaded Objects now: 418.
+Total: 0.705500 ms (FindLiveObjects: 0.052000 ms CreateObjectMapping: 0.012100 ms MarkObjects: 0.364300 ms  DeleteObjects: 0.276000 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 43c0 -> priority: 1 
+  Thread -> id: 4c0 -> priority: 1 
+  Thread -> id: 56f0 -> priority: 1 
+  Thread -> id: 1584 -> priority: 1 
