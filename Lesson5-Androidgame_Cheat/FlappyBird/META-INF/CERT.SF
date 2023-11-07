@@ -1,0 +1,133 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: mjZmwmGi1QTAv1aignnS6iPND24=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: h3JdKZ/L4xtCbU2hsjtLa58zY+8=
+
+Name: assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA1-Digest: lMNgPFgtY16Lt4DtQij6wP+0rp8=
+
+Name: assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+SHA1-Digest: Eubvl7DT1yRp5/Z3ohYzEUdXL/k=
+
+Name: assets/bin/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: 8QrHhhH8v2S0d70eEC5WaBO/Ijc=
+
+Name: assets/bin/Data/Managed/etc/mono/1.0/machine.config
+SHA1-Digest: DqC6O/xjE6f0Ac/eMB7tNg7t4ng=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+SHA1-Digest: OAuC4pFUjhU9+dBXDC2db86sYXk=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: 8UVF+cQLyTxN53Ds3auF6YpoBWY=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/machine.config
+SHA1-Digest: /Y2FuPeLnUpK8XvVo++1x0+20gs=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/settings.map
+SHA1-Digest: bTu7Uc5ptr9hMAyZ6dLa3OdOi70=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/web.config
+SHA1-Digest: fEkU9VF6QqLwGamdfk+zkLFNQ5k=
+
+Name: assets/bin/Data/Managed/etc/mono/browscap.ini
+SHA1-Digest: US25TU5cDJX0v1hwobvYRwhnb30=
+
+Name: assets/bin/Data/Managed/etc/mono/config
+SHA1-Digest: gS2WWxSBFAbpIhy0IG9e9riwfAo=
+
+Name: assets/bin/Data/Managed/etc/mono/mconfig/config.xml
+SHA1-Digest: 73rFutkBXFTvenAn71urSjnRo14=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: xHoYfxEsdwimuXSdWCJ5T2l+lY4=
+
+Name: assets/bin/Data/boot.config
+SHA1-Digest: KUv6NwlgWGEsXk8cE/oIH1c55a4=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: zx7xmY79SxR+uCrXoDSJph2l7CI=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA1-Digest: +OPuB34grqFwnwksvlYgEiT4H7w=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: JcAUU1SB3JlPR82cxuNF9RzfVTQ=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: DsiP0mvf7BFfEzUK2hY/uUYgFHU=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: kBAegQGOslo8s3HFisfxSsiUzcA=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: 5h3ieS+ZYSWL30BLrqRPJ8FmF1E=
+
+Name: assets/bin/Data/sharedassets0.resource
+SHA1-Digest: fmnHzR8r5JcuL/so0MEWJLb9uhQ=
+
+Name: assets/bin/Data/sharedassets1.assets
+SHA1-Digest: i1nbNhJIRFq6LhCh+tq4a5asaGo=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: nn6RDDhjM49jUN14NDP+ESl8LP0=
+
+Name: classes.dex
+SHA1-Digest: ceq3AJ9GRlq7CswL6XtDtjEOfCI=
+
+Name: lib/armeabi-v7a/libil2cpp.so
+SHA1-Digest: Kj3DdQJgX3aJSAoHJBYW4+X1gDI=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: gWqgjuEd+TtCRmG+MB86S/WwbjU=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: VbZbTYZOdfKE0VdjV9izmXOP3UM=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: tFVe0MxH4p2CHHNEsUx4KIcrRWo=
+
+Name: res/mipmap-hdpi-v4/app_icon.png
+SHA1-Digest: t6/ltELEtQ1jQSlXhn05x5Ns6Xs=
+
+Name: res/mipmap-hdpi-v4/app_icon_round.png
+SHA1-Digest: BdIkfXp+0J3XObSoNw+tBdYg7KY=
+
+Name: res/mipmap-ldpi-v4/app_icon.png
+SHA1-Digest: Brl3xM1lpptuC9XHJd0JlOpXyDs=
+
+Name: res/mipmap-ldpi-v4/app_icon_round.png
+SHA1-Digest: iJaD/bm4VCd2syyuRj3dHJi3+ss=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA1-Digest: 0yhZOdpVdyUkT178llpU/f7Ok1g=
+
+Name: res/mipmap-mdpi-v4/app_icon_round.png
+SHA1-Digest: FZkfc1vgHNhlUDpVpbAgLiN4jrw=
+
+Name: res/mipmap-xhdpi-v4/app_icon.png
+SHA1-Digest: 2zv3rqSuBIJ2qF4pwvJ0094iH48=
+
+Name: res/mipmap-xhdpi-v4/app_icon_round.png
+SHA1-Digest: ag7X4KWt7fjumY92oxwovEHPSyQ=
+
+Name: res/mipmap-xxhdpi-v4/app_icon.png
+SHA1-Digest: cqr0paydQ4IhFxseduYNK08kc9E=
+
+Name: res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA1-Digest: AKpxnX92LS+iPorBbe9Ucs47VvY=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon.png
+SHA1-Digest: CKrpvkeh+dZLSR6S60xaPWI83bc=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA1-Digest: liOghvtT1gFddR2jPU/JqpNkcfE=
+
+Name: resources.arsc
+SHA1-Digest: rMl1ULoDEcLn3Ez1FEVtnVr/xzw=
+

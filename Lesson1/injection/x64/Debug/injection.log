@@ -1,5 +1,0 @@
-﻿  dll_injection.cpp
-D:\Learning\2023project\TLearning\dll_inject\injection\dll_injection.cpp(53,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\Learning\2023project\TLearning\dll_inject\injection\dll_injection.cpp(135,10): warning C4477: “printf”: 格式字符串“%11X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
-D:\Learning\2023project\TLearning\dll_inject\injection\dll_injection.cpp(135,10): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "LPVOID" 的参数 1 冲突
-  injection.vcxproj -> D:\Learning\2023project\TLearning\dll_inject\injection\x64\Debug\injection.exe
