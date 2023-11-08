@@ -14,3 +14,11 @@ keywords: `injection with ptrace` / `remote dlopen` / `auto initializng while .s
 ## Lesson 3 : PC and Android ELF analysis and reverse.
 
 keywords: `UPX` / `VMP` / `Undebug` / `Base64` / `Dump` 
+
+## Lesson 4 : Cheating on PC Unity-Mono game by tools.
+
+keywords: `C#` / `Unity-Mono` / `CheatEngine` / `MonoInjector` 
+
+## Lesson 5 : Cheating on Android Unity-Il2cpp game by tools.
+
+keywords: `C#` / `Java` / `Unity-Il2cpp` / `frida` / `Il2cppDumper` 
