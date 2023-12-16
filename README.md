@@ -1,10 +1,5 @@
 # TencentClientReverseLearning
-<<<<<<< HEAD
-
-Reverse notes of a rookie : ) 
-=======
 Reverse notes of a rookie : ) 😏
->>>>>>> 5f5fc3784b138acc4793c3fc1b4d7cbc87fd6ce8
 
 ## Lesson 1 : PC client security basics.
 
